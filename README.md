@@ -1,5 +1,5 @@
 # Welcome to Docker WordPress!
-Hi! The objective of this repository is create a base to star develop some plugin to WordPress. 
+Hi! The objective of this repository is create a base to start develop some plugin to WordPress. 
 
 
 ## Run
