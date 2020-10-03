@@ -9,4 +9,4 @@ Just run the file `docker-compose.yml`
 inside the src folder create your file and link with the 
 WordPresss' container on the `docker-compose.yml`
 
-![Putting WordPress Docker Containers in Production - Building WordPress  Images - PattonWebz](https://www.pattonwebz.com/wp-content/uploads/2017/03/docker-wordpress-logs.png)s
+![Putting WordPress Docker Containers in Production - Building WordPress  Images - PattonWebz](https://www.pattonwebz.com/wp-content/uploads/2017/03/docker-wordpress-logs.png)
